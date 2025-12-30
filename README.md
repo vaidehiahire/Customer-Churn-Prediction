@@ -45,5 +45,3 @@ The goal is to identify customers who are at risk of leaving the service so that
 ## Conclusion
 This project demonstrates how machine learning can be applied to **predict customer churn** and support **data-driven retention strategies**.
 By focusing on recall and business impact rather than default accuracy, the model aligns better with real-world decision-making.
-
-### ⭐ If you found this project useful, feel free to explore the notebook or suggest improvements!
