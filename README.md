@@ -1,5 +1,4 @@
 # Customer Churn Prediction using Machine Learning
-
 Customer churn is a major challenge for telecom companies, as losing customers directly impacts revenue.
 This project focuses on building a **machine learning model** to predict whether a customer is likely to churn based on their service usage, account details, and billing information.
 
